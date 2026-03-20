@@ -11,3 +11,10 @@ public class UserInput {
         System.out.println("Your age is: " + age);
     }
 }
+
+//output
+
+/* Please enter your name: swayam pandit
+Good Morning swayam pandit
+swayam pandit, Also tell me your age:21
+Your age is: 21*/
