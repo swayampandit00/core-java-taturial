@@ -30,3 +30,12 @@ public class Variables {
 
     }
 }
+
+//output
+/*
+0
+865
+45
+5.0
+true
+Good Morning*/
