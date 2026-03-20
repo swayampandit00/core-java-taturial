@@ -7,3 +7,12 @@ public class FirstProgram {
     System.out.println("Pandit");
   }
 }
+
+
+
+// output
+/*
+Welcome
+Swayam
+Pandit
+  */
