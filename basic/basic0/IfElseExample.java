@@ -1,10 +1,11 @@
 public class IfElseExample {
     public static void main(String[] args) {
-        int num = 10;
-        if(num > 0){
-            System.out.println("Positive");
+        int num = 7;
+
+        if (num % 2 == 0) {
+            System.out.println("Even");
         } else {
-            System.out.println("Negative");
+            System.out.println("Odd");
         }
     }
 }
